@@ -1,6 +1,6 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Rodrigo Rocha, e sou graduando do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC e estudante do curso de Programação WEB no Instituto Federal do Tocantins - IFTO. Servo de Jesus Cristo, Marido da Alécia, Pai da Isabella e Alice.
+Meu nome é Rodrigo Rocha, e sou graduando do Bacharelado em Ciência e Tecnologia na Universidade Federal do ABC e estudante do curso de Programação WEB no Instituto Federal do Tocantins - IFTO. Servo de Jesus Cristo, marido da Alécia, pai da Isabella e Alice.
 
 Minhas redes:
 <ul>
